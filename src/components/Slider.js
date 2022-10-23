@@ -53,7 +53,8 @@ const SimpleSlider = () => {
                                 <h3>Sella Tracker</h3>
                                 <h4>Web Application</h4>
                                 <h4>
-                                    Tools used: JAVA,SQL,PLSQL,Spring,Hibernate,J2EE and Rest Services
+                                    Tools used: JAVA,SQL,PLSQL,Spring,Hibernate,J2EE 
+                                    and Rest Services
                                 </h4>
                                 <ul>
                                     <li>
@@ -109,7 +110,8 @@ const SimpleSlider = () => {
                             <div>
                                 <h3>Weather App</h3>
                                 <h4>Web Application</h4>
-                                <h4>Tools used: HTML,CSS,ReactJS,JAVA,SpringBoot,SQL,DataStructures</h4>
+                                <h4>Tools used: HTML,CSS,ReactJS,JAVA,SpringBoot,
+                                SQL,DataStructures</h4>
                                 <ul>
                                     <li>
                                         A web-based application that could reveal the current week weather
